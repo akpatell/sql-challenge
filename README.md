@@ -17,7 +17,7 @@ The CSVs were inspected prior to sketching out an ERD of the tables. The followi
 
 #### Data Analysis
 
-After completing the database, a query tool was used to write SQL code to answer the followig questions:
+After completing the database, a query tool was used to write SQL code to answer the following questions:
 
 1. List the following details of each employee: employee number, last name, first name, sex, and salary.
 
